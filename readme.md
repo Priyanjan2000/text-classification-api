@@ -155,10 +155,14 @@ Notes
 
 Example Categories
   Input Text	Category
+  
   “My payment failed but money was deducted”	Complaint
   “When will my order be delivered?”	Query
+  
   “The app UI looks really clean”	Feedback
+  
   “Hello”	Other
 
 Author
 Priyanjan Ghosh
+
